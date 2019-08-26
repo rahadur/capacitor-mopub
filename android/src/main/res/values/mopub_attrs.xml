@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MoPubView">
+        <attr name="moPubAdSize" format="enum">
+            <enum name="match_view" value="-1"/>
+            <enum name="height_50" value="50"/>
+            <enum name="height_90" value="90"/>
+            <enum name="height_250" value="250"/>
+            <enum name="height_280" value="280"/>
+        </attr>
+    </declare-styleable>
+</resources>
